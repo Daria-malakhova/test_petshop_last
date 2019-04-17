@@ -1,5 +1,7 @@
 # test_petshop_last
 
+rest api tests for https://petstore.swagger.io/
+
 Test run via command line:
 
 Install JDK 1.8 https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
